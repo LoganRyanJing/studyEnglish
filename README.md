@@ -22,3 +22,19 @@ adj.
 vt.
 领…到教堂接受宗教仪式
 第三人称单数： churches 复数： churches 现在分词： churching 过去式： churched 过去分词： churched
+他们的婚礼是在教堂举行的。
+
+### cathedral 
+n. 大教堂
+〔辨析〕
+指主教管控下的某一教区内最大的教堂，即主教堂或总教堂，通常装饰精致、宏伟肃穆。
+
+### chapel 
+n. 小教堂
+〔辨析〕
+指学校、监狱、私人宅院等中供基督教徒做礼拜用的专门场所。
+
+〔例证〕
+He built a chapel as a shrine to the memory of his dead mother.
+
+他建了一座小教堂作为悼念亡母的圣所。
