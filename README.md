@@ -60,3 +60,11 @@ Word accumulation.
     n.
     骗子;欺骗（行为）;雀麦;〈美俚〉反光镜
     第三人称单数： cheats 复数： cheats 现在分词： cheating 过去式： cheated 过去分词： cheated
+### senior
+    英 [ˈsi:niə(r)]   美 [ˈsinjɚ]  
+    adj.
+    资深的;（级别、地位等）较高的;年长的;<美>最高年级的
+    n.
+    上级;<美>毕业班学生;较年长者;地位较高的，资历较深的
+    复数： seniors
+    记忆技巧：sen 老 + ior 较…的 → 年长的
