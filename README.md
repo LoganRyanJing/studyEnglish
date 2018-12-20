@@ -68,3 +68,9 @@ Word accumulation.
     上级;<美>毕业班学生;较年长者;地位较高的，资历较深的
     复数： seniors
     记忆技巧：sen 老 + ior 较…的 → 年长的
+###generate
+    英 [ˈdʒenəreɪt]   美 [ˈdʒɛnəˌret]  
+    vt.
+    形成，造成;产生物理反应;产生（后代）;引起
+    第三人称单数： generates 现在分词： generating 过去式： generated 过去分词： generated
+    记忆技巧：gener 产生 + ate 使… → 产生；发电
